@@ -1,4 +1,4 @@
-package agrorithm;
+package agrorithm.palindrome;
 
 /**
  * 判断一个数是不是回文数
