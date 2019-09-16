@@ -10,7 +10,7 @@
       "type": "node",
       "request": "launch",
       "name": "Launch Program",
-      "program": "${workspaceFolder}\\src\\agrorithm\\mergeTwoSortedLists\\mergeTwoSortedListsWithRecursive.js"
+      "program": "${workspaceFolder}\\src\\agrorithm\\removeDuplicatesFromSortedArray\\sortedRemove.js"
     }
   ]
 }
