@@ -10,7 +10,7 @@
       "type": "node",
       "request": "launch",
       "name": "Launch Program",
-      "program": "${workspaceFolder}\\src\\agrorithm\\searchInsertPosition\\searchInsertPositionBinary.js"
+      "program": "${workspaceFolder}\\src\\agrorithm\\maximumSubarray\\maximumSubarray.js"
     }
   ]
 }
