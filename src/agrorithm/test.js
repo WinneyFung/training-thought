@@ -8,3 +8,4 @@ console.log('====================================');
 console.log('测试hot-fix');
 console.log('====================================');
 const name ='hhh'
+const age = 99
