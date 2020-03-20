@@ -7,7 +7,7 @@
       "type": "node",
       "request": "launch",
       "name": "Launch Program",
-      "program": "${workspaceFolder}\\src\\agrorithm\\dynamicProgramming\\392.IsSubsequence\\index.js"
+      "program": "${workspaceFolder}\\src\\agrorithm\\dynamicProgramming\\1025.DivisorGame\\index.js"
     },
     /*     {
           "type": "chrome",
